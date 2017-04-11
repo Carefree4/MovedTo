@@ -1,3 +1,3 @@
 # Moved To
 
-I moved to [maxwenger](github.com/maxwenger).
+I moved to [maxwenger](https://github.com/maxwenger).
